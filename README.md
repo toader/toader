@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toader
 - 👀 I’m interested in database
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on time series database
 - 📫 How to reach me <liangdongfairy@126.com>
 
